@@ -1,0 +1,27 @@
+// Note: This file is not related to the classes, so you can ignore it. If you have any questions, please let me know.
+
+// Topic:1 JAVA compleated
+
+// Topic:2 JAVA DATA TYPES
+
+// Topic:3 JAVA OPERATORS
+
+// Topic:4 JAVA STRINGS...CONCATENATION...NUMBER AND STRINGS...SPECIAL CHARECTERS
+
+// Topic:5 JAVA MATH
+
+// Topic:6 JAVA BOOLEANS
+
+// Topic:7 JAVA IF ELSE....ALL TYPES OF..
+
+// Topic:8 JAVA SWITCH
+
+//Topic:9 While loop for loop 
+
+//Topic:10 Java Array 
+
+//Topic:11 Java Methods 
+
+//Topic:12 Java Return
+
+//Topic:13 Java 
